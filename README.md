@@ -4,6 +4,6 @@ Description: This Instagram Clone uses Swift and XCode to demonstrate the UI/UX 
 
 Features: Something that makes this project stand out is its focus on detail. By replicating the spacing and font of what would show on Instagram itself, the design is almost identical. 
 
-![](https://github.com/f24-bootcamp-instagram/InstagramClone.png)
+![Demo](InstagramClone.png)
 
 Collaborators: App Team Carolina
